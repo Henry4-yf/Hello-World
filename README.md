@@ -35,3 +35,16 @@ For example：
 </ul>
 
 <p>working together…</p>
+
+链接：
+用<a>元素，
+For example：
+<a href="https://www.mozilla.org/en-US/about/manifesto/">
+  Mozilla Manifesto
+</a>
+
+
+
+
+
+     
